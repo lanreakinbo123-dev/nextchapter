@@ -1,0 +1,30 @@
+Last login: Sun Oct 11 21:54:16 on ttys000
+admin@Lanre-Akinbo-MacBook-Air next-chapter-ai-landing-page (1) % git init
+git add .
+git commit -m "Next Chapter — AI CV platform"
+git branch -M main
+git remote add origin https://github.com/lanreakinbo123-dev/nextchapter.git
+git push -u origin main
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
