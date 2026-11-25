@@ -34,7 +34,7 @@ import {
   ExternalLink,
   BadgeCheck,
 } from "lucide-react";
-import CvPreview from "@/components/CvPreview";
+import CvPreview from "../CvPreview";
 import { CV_TEMPLATES, CvData, CvTemplateId } from "@/lib/cv-templates";
 
 type DocType = "cv" | "cover_letter" | "personal_statement";
