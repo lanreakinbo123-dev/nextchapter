@@ -1,19 +1,19 @@
 "use client";
 
 import { useRef } from "react";
-import Navbar from "../components/Navbar";
-import Hero from "../components/Hero";
-import SocialProof from "../components/SocialProof";
-import DocumentStudio from "../components/DocumentStudio";
-import FeaturesShowcase from "../components/FeaturesShowcase";
-import HowItWorks from "../components/HowItWorks";
-import Benefits from "../components/Benefits";
-import Testimonials from "../components/Testimonials";
-import Pricing from "../components/Pricing";
-import LeadMagnet from "../components/LeadMagnet";
-import Faq from "../components/Faq";
-import CtaSection from "../components/CtaSection";
-import Footer from "../components/Footer";
+import Navbar from "../Navbar";
+import Hero from "../Hero";
+import SocialProof from "../SocialProof";
+import DocumentStudio from "../DocumentStudio";
+import FeaturesShowcase from "../FeaturesShowcase";
+import HowItWorks from "../HowItWorks";
+import Benefits from "../Benefits";
+import Testimonials from "../Testimonials";
+import Pricing from "../Pricing";
+import LeadMagnet from "../LeadMagnet";
+import Faq from "../Faq";
+import CtaSection from "../CtaSection";
+import Footer from "../Footer";
 
 export default function Home() {
   const scrollToStudio = () => {
